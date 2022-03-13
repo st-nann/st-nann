@@ -1,8 +1,8 @@
 ## Sanyanee Thawinvongrak
 
 <table cellspacing="0" cellpadding="0">
-  <tr style="border-top:none;">
-    <td width="65%" style="vertical:top;border:none;">
+  <tr>
+    <td width="65%">
       I am a web developer. I have experience working with Vue.js, Nuxt.js, Next.js, Node.js, Nest.js, PHP, Typescript, Javascript, HTML and CSS. I am passionate about learning Frontend, Backend, Full stack, Cloud and Blockchain Technologies.
        <ul>
         <li> 👨‍💻 All of my projects are available at <a href="https://my-portfolio-v3.web.app/">here</a> </li>
