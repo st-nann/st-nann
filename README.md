@@ -1,23 +1,14 @@
 ## Sanyanee Thawinvongrak
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="65%">
-      I am a web developer. I have experience working with Vue.js, Nuxt.js, Next.js, Node.js, Nest.js, PHP, Typescript, Javascript, HTML and CSS. I am passionate about learning Frontend, Backend, Full stack, Cloud and Blockchain Technologies.
-       <ul>
-        <li> 👨‍💻 All of my projects are available at <a href="https://my-portfolio-v3.web.app/">here</a> </li>
-        <li> 📝 I regularly write articles on <a href="https://medium.com/@st.nann">medium</a> </li>
-        <li> 📫 How to reach me **st.sanyanee@hotmail.com** </li>
-        <li> 📄 Know about my experiences <a href="https://www.canva.com/design/DAE5FY4cn-E/rCOcyDF5ACipXkoRrPieuQ/view?utm_content=DAE5FY4cn-E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">view more</a> </li>
-      </ul>
-    </td>
-    <td>
-      <a href="https://app.daily.dev/st_nann">
-        <img src="https://api.daily.dev/devcards/651f4a84cfec41b784c3c141b52f2edd.png?r=tmk" width="400" alt="Sanyanee Thawinvongrak's Dev Card" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://app.daily.dev/st_nann">
+  <img src="https://api.daily.dev/devcards/651f4a84cfec41b784c3c141b52f2edd.png?r=tmk" align="right" width="380" alt="Sanyanee Thawinvongrak's Dev Card" />
+</a>
+
+I am a web developer. I have experience working with Vue.js, Nuxt.js, Next.js, Node.js,Nest.js, PHP, Typescript, Javascript, HTML and CSS. I am passionate about learning Frontend, Backend, Full stack, Cloud and Blockchain Technologies.
+- 👨‍💻 All of my projects are available at [here](https://my-portfolio-v3.web.app/)
+- 📝 I regularly write articles on [medium](https://medium.com/@st.nann)
+- 📫 How to reach me **st.sanyanee@hotmail.com** </li>
+- 📄 Know about my experiences [view more](https://www.canva.com/design/DAE5FY4cn-E/rCOcyDF5ACipXkoRrPieuQ/view?utm_content=DAE5FY4cn-E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### Technogoly Stacks
 <p align="left">
@@ -145,16 +136,13 @@
   <a href="https://linkedin.com/in/sanyanee-thawinvongrak" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyanee-thawinvongrak" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@st.nann" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@st.nann" height="30" width="40" />
-  </a>
 </p>
 
 <br/>
 <details>
   <summary>Github Stats</summary>
   <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-nann" alt="st-nann" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-nann&column=10&theme=gruvbox&no-frame=true" alt="st-nann" />
     </a>
   </p>
   <p>
