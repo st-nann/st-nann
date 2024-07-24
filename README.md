@@ -33,6 +33,9 @@ I am a software developer. I have experience working with Vue.js, Nuxt.js, Next.
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/postgresql.svg" alt="postgressql" width="40" height="40"/>
+  </a>
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
   </a>
@@ -63,6 +66,12 @@ I am a software developer. I have experience working with Vue.js, Nuxt.js, Next.
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/elasticsearch.svg" alt="elasticsearch" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/DataVisualization/kibana.svg" alt="kibana" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -91,7 +100,7 @@ I am a software developer. I have experience working with Vue.js, Nuxt.js, Next.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nestjs.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
