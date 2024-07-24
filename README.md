@@ -4,13 +4,13 @@
   <img src="https://api.daily.dev/devcards/651f4a84cfec41b784c3c141b52f2edd.png" align="right" width="300" alt="Sanyanee Thawinvongrak's Dev Card" />
 </a>
 
-I am a web developer. I have experience working with Vue.js, Nuxt.js, Next.js, Node.js,Nest.js, PHP, Typescript, Javascript, HTML and CSS. I am passionate about learning Frontend, Backend, Full stack, Cloud and Blockchain Technologies.
+I am a software developer. I have experience working with Vue.js, Nuxt.js, Next.js, Node.js, Nest.js, Golang, PHP, Typescript, Javascript, HTML, and CSS. I am passionate about learning Frontend, Backend, Full stack, and Cloud Technologies.
 - 👨‍💻 All of my projects are available at [here](https://my-portfolio-v3.web.app/)
 - 📝 I regularly write articles on [medium](https://medium.com/@st.nann)
 - 📫 How to reach me **st.sanyanee@hotmail.com** </li>
 - 📄 Know about my experiences [view more](https://www.canva.com/design/DAE5FY4cn-E/rCOcyDF5ACipXkoRrPieuQ/view?utm_content=DAE5FY4cn-E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-### Technogoly Stacks
+### Technology Stacks
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/>
