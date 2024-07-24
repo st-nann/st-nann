@@ -133,6 +133,12 @@ I am a software developer. I have experience working with Vue.js, Nuxt.js, Next.
   <a href="https://github.com/st.nann" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="st-nann" height="30" width="40" />
   </a>
+  <a href="https://gitlab.com/st.nann" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/gitlab-profile-readme-generator/master/src/images/icons/Social/gitlab.svg" alt="st-nann" height="30" width="40" />
+  </a>
+  <a href="https://bitbucket.org/st-nann/workspace/overview/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/bitbucket-profile-readme-generator/master/src/images/icons/Social/bitbucket.svg" alt="st-nann" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/sanyanee-thawinvongrak" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyanee-thawinvongrak" height="30" width="40" />
   </a>
