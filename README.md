@@ -143,7 +143,7 @@ I am a software developer. I have experience working with Vue.js, Nuxt.js, Next.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="st-nann" height="30" width="40" />
   </a>
   <a href="https://gitlab.com/st.nann" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="st-nann" height="30" width="40" />]()
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="st-nann" height="30" width="40" />
   </a>
   <a href="https://bitbucket.org/st-nann/workspace/overview/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="st-nann" height="30" width="40" />
